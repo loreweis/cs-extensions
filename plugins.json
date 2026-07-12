@@ -1,0 +1,354 @@
+[
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://anichin.club&size=%size%",
+        "fileHash": "sha256-18f021158f4539fed48462ad4127f992f7518c0966086b2780b1dfe89b0e1976",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 35139,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "AnichinProvider",
+        "description": "Anichin — Streaming Donghua Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/AnichinProvider.cs3",
+        "name": "AnichinProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animein.net&size=%size%",
+        "fileHash": "sha256-df3659d361b399df8f36257d6aabce77954b865f9816318ea5a5ee51cf2e12e8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 27587,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Loreweis"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimeInProvider",
+        "description": "AnimeIn — Streaming Anime Subtitle Indonesia (direct API)",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/AnimeInProvider.cs3",
+        "name": "AnimeInProvider"
+    },
+    {
+        "iconUrl": "https://aghanim.xyz/wp-content/themes/animesail/assets/images/ico.png",
+        "fileHash": "sha256-5c301525373a097b1bcd14fbe3c2a88d4161686b1420dd5c05083ad77c023a31",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 41589,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "AnimeSailProvider",
+        "description": "AnimeSail — Streaming Anime, Donghua Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://animexin.dev/wp-content/uploads/2020/06/animexinv1.png",
+        "fileHash": "sha256-6a5d9d1e237e2630c01a577ebd8ce365147c39556808c666d45bc3d98f1b5b10",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 14905,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "AnimexinProvider",
+        "description": "Animexin — Streaming Donghua Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/AnimexinProvider.cs3",
+        "name": "AnimexinProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://anoboy.be&size=%size%",
+        "fileHash": "sha256-4e851bd67d2d2c0b6e73e738aea1a2ccc0aa9f4ffb1f8e49bd5e427c964e2439",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 58500,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnoboyProvider",
+        "description": "AnoBoy — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/AnoboyProvider.cs3",
+        "name": "AnoboyProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://donghub.vip&size=%size%",
+        "fileHash": "sha256-8f410067d42c68c0948c14cd8142131bc9a379fca8694e43c9e7622027db732a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 18869,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "DonghubProvider",
+        "description": "Donghub — Streaming Donghua Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/DonghubProvider.cs3",
+        "name": "DonghubProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/recloudstream/cloudstream/master/app/src/main/res/drawable/ic_launcher.png",
+        "fileHash": "sha256-399fc10fb2c6c57b5ca8dae55d59e4c2edbbef8b3334709b09567f9ade8bad92",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 5590,
+        "status": 1,
+        "language": "all",
+        "authors": [
+            "Loreweis"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "ExtractorPack",
+        "description": "Extractor Pack — Global Video Extractor Overrides for CloudStream",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/ExtractorPack.cs3",
+        "name": "ExtractorPack"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://v2.hidoristream.online&size=%size%",
+        "fileHash": "sha256-f07db6c3ba686b89346be58b66651a44b88e886c5a6dedaa8704b36eef90e4aa",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 48812,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "HidoriStreamProvider",
+        "description": "HidoriStream — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/HidoriStreamProvider.cs3",
+        "name": "HidoriStreamProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/EFMkS1T-8txjLFIl9QxjcTRLa7a7Muv08C04b7ongYgodoY_b2T3GpxzGAQEx-eitfQ=w256",
+        "fileHash": "sha256-39a675bdafbf8eb8028c43327f47400bbfa05ab8d41ed598cac93de9c85b1225",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 39116,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "KuronimeProvider",
+        "description": "Kuronime — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
+    },
+    {
+        "iconUrl": "https://play-lh.googleusercontent.com/dY14g3yyspn5bxDAgypP-UrY0cixAIKVE2_qbeeSAjOiw4DtGgzOxg0Jq5_bcFvIpjk4kr6PlbHccZs90UBblQ=w480-h960-rw",
+        "fileHash": "sha256-2e7651323e81c5ebdefd4a73b07fa7623d5112c3039a28845e8dc4c65043ce89",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 26111,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Loreweis"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NanimeIDProvider",
+        "description": "NanimeID — Streaming Anime & Donghua Subtitle Indonesia (direct API)",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/NanimeIDProvider.cs3",
+        "name": "NanimeIDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nimegami.id&sz=%size%",
+        "fileHash": "sha256-20c2009df53c8688c6902bf5f78f12669df7ed958650e10ae1e36b65400a6e73",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 25089,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NimegamiProvider",
+        "description": "Nimegami — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/NimegamiProvider.cs3",
+        "name": "NimegamiProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://s11.nontonanimeid.boats&size=%size%",
+        "fileHash": "sha256-f27be5577af8b51714c836af02a55be0c8a7ba8f478a4168273a049b8699593c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 41710,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "NontonAnimeIDProvider",
+        "description": "NontonAnimeID — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/NontonAnimeIDProvider.cs3",
+        "name": "NontonAnimeIDProvider"
+    },
+    {
+        "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr-sfek8gXmLpcAppEpaYbUDVtndQbCm_boh1-E91QrmSvsw-2l3-s2JOP&s=10",
+        "fileHash": "sha256-56ed147d560a9abee63ca624d9c66dff59aeff75498c0c2832c459756c8bb196",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 38316,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "OtakudesuProvider",
+        "description": "OtakuDesu — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/OtakudesuProvider.cs3",
+        "name": "OtakudesuProvider"
+    },
+    {
+        "iconUrl": "https://lh3.googleusercontent.com/zwKn_6sdYOdIiWg6Gtnx-Ar2DrVamlADnPN8BE4f84-a9aRo2Zc7mxbW5Qd26Z8cPFc",
+        "fileHash": "sha256-ca2e9a7790741b3a54d51fbb11fcf7d900c9029c6a71feccadd42bd9e699ba77",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 34195,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "SamehadakuProvider",
+        "description": "Samehadaku — Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/SamehadakuProvider.cs3",
+        "name": "SamehadakuProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://winbu.net&size=%size%",
+        "fileHash": "sha256-a9d4bcfdc4b3d7141a872214e09d1b8464474e65cd6791992f406e6d36a47665",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 41651,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Miku"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "WinbuProvider",
+        "description": "Winbu — Streaming Anime, Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/WinbuProvider.cs3",
+        "name": "WinbuProvider"
+    },
+    {
+        "iconUrl": "https://wibuku.app/favicon.ico",
+        "fileHash": "sha256-f96aae2035ef7755ccbfd99bb17441b75475e00672fd12d26efb6cf57ca619ce",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/loreweis/cs-extensions",
+        "fileSize": 49766,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Loreweis"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "WibukuProvider",
+        "description": "Wibuku — Streaming Anime Subtitle Indonesia (Direct Panel API)",
+        "url": "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/WibukuProvider.cs3",
+        "name": "WibukuProvider"
+    }
+]

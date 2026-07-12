@@ -1,0 +1,9 @@
+{
+    "name": "cs extension",
+    "iconUrl": "https://avatars.githubusercontent.com/u/110329388?v=4&size=64",
+    "description": "cs extensions",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/loreweis/cs-extensions/builds/plugins.json"
+    ]
+}
